@@ -1,7 +1,2 @@
 # MA-Ahi
-
-For 1st time create repos
-<br/>
-Author : MA Ahi
-<br/>
-Published: 8/20/2024
+Moved form react 18 to 19 version. And there is something that has changed. And what has changed, we have presented it to you through our branch.
