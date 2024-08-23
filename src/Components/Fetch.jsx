@@ -1,6 +1,6 @@
 import styles from "./Fetch.module.css";
 import { Suspense, use } from "react";
-import Loading from "./Loading";
+import Loading from "../../src/Components/Loading";
 
 const fetchJokes = async () => {
   const res = await fetch("https://api.chucknorris.io/jokes/random");
