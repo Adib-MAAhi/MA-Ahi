@@ -1,0 +1,16 @@
+.btn {
+  padding: 0.7rem 2rem;
+  background-color: aquamarine;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: rgb(35, 220, 158);
+}
+
+.message {
+  margin-right: 3rem;
+}

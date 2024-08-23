@@ -1,0 +1,18 @@
+.loder {
+  margin-left: 30rem;
+}
+
+.joke {
+  border: 1px solid white;
+  background-color: #fff;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
+  text-align: center;
+  margin-top: 3rem;
+  padding: 1.1rem 1.4rem;
+}
+
+.joke h2 {
+  text-align: center;
+  margin-left: 4rem;
+}

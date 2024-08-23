@@ -1,0 +1,19 @@
+input {
+  margin-right: 1rem;
+}
+
+button {
+  margin-left: 1rem;
+  padding: 4px 8px;
+  height: 35px;
+  margin: 5px 0px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #edc84b;
+}
+
+.messg {
+  margin-top: 1.6rem;
+  margin-right: 12rem;
+}
